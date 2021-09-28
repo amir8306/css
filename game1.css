@@ -1,0 +1,57 @@
+nav{
+    color: aqua;
+}
+
+.buttion{
+    background: content-box radial-gradient(crimson, skyblue);;
+}
+
+.top{
+    color: brown;
+}
+.info{
+    color: darkorange;
+}
+
+
+.one{
+    color: red;
+}
+
+
+.dead{
+    color: cyan;
+}
+
+.dead{
+    background: rgba(130, 151, 8, 0.637);
+}
+
+
+.red{
+    color:white;
+}
+
+.red{
+    background: black;
+}
+
+
+.age{
+    color: firebrick;
+}
+
+.player{
+    color: blue
+}
+
+.data{
+    color: cornflowerblue;
+}
+
+.vidio{
+    color:gold;
+}
+.vidio{
+    background: grey;
+}
