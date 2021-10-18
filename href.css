@@ -1,0 +1,19 @@
+a[href] {
+    color: pink;
+}
+
+a[href="https://developer.mozilla.org/en-US/"] {
+    color: blue;
+}
+
+a[href*="roocket"] {
+    color: brown;
+}
+
+a[href$="org/en-US/"] {
+    color: tomato;
+}
+
+li[class="item"] a {
+    background: yellow;
+}
