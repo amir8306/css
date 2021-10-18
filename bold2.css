@@ -1,0 +1,24 @@
+.color-red{
+    color: rebeccapurple;
+}
+
+
+.background-yellow{
+    background: yellow;
+}
+
+/* #first{
+    font-weight: bold;
+} */
+
+/* div.background-yellow{
+    font-weight: bold;
+} */
+
+header .color-red{
+    font-weight: bold;
+}
+
+header nav .creed{
+    background:content-box radial-gradient(red , blue)
+}
